@@ -11,10 +11,10 @@ Free & Open Source program for custom RPC (Rich presence) for your discord profi
 
 # How to Install CustomRPC
 <h3>1. Download ZIP from releases</h3>
-<img style="width: 50%" src="https://i.imgur.com/3ja3Fv7.png">
+<img style="width: 75%" src="https://i.imgur.com/3ja3Fv7.png">
 
 <h3>2. Open install.bat to download required libraries</h3>
-<img style="width: 50%" src="https://i.imgur.com/iR0OAj2.png">
+<img style="width: 75%" src="https://i.imgur.com/iR0OAj2.png">
 
 <h3>3. You're done!</h3>
 <img src="https://media.tenor.com/xWPaojwX8g0AAAAM/skeleton-meme.gif">
