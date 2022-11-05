@@ -1,17 +1,15 @@
 # CustomRPC (v.1.0.0)
 
-Free & Open Source program for custom RPC (Rich presence) for your discord profile.
+Free & Open Source program for custom RPC (Rich presence) for your discord profile!
 
-```
-- Windows 10/11
-  - Chrome 105
-  - Firefox 104
-  - Edge 105
-  - Opera GX
-- Android 11
-  - Chrome 105
-  - Opera GX
-  ```
+<img src="https://i.imgur.com/PDUmJ3O.png">
+
+# How to Install CustomRPC
+<h3>1. Download ZIP from releases</h3>
+<img style="width: 50%" src="https://i.imgur.com/3ja3Fv7.png">
+
+<h3>2. Open install.bat to download required libraries</h3><h4>(That's the problem if program crashes)</h4>
+<img style="width: 50%" src="https://i.imgur.com/iR0OAj2.png">
 
 # Problems and Bugs
 Here are the problems and bugs that I plan to address in the future. If you fixed them, please do not hesitate to send me a pull request, and I would be very grateful. Please also report problems and bugs in [GitHub Issues](https://github.com/Ondra9071/Login-Register-Page-Template/issues).
