@@ -1,13 +1,7 @@
-# Login & Register Template (Bootstrap 5.2)
+# CustomRPC (v.1.0.0)
 
-Login Demo: <b>soon</b> <br>
-Register Demo: <b>soon</b>
+Free & Open Source program for custom RPC (Rich presence) for your discord profile.
 
-<b>Bootstrap Version: 5.2</b>
-
-This is a responsive (mobile/desktop) and light-weight HTML/CSS template for login and signup page, everything is customizable.
-
-This template is tested and worked on:
 ```
 - Windows 10/11
   - Chrome 105
