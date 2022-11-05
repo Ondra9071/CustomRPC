@@ -1,3 +1,8 @@
+[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge)](https://github.com/Ondra9071/CustomRPC/releases/download/version_1.0.0/CustomRPC.zip)
+[![Downloads](https://img.shields.io/github/downloads/SecretDev1111/Discord-Webhook-Spammer/total?label=Downloads&style=for-the-badge)](https://github.com/SecretDev1111/Discord-Webhook-Spammer/releases/latest)
+[![Stars](https://img.shields.io/github/stars/SecretDev1111/Discord-Webhook-Spammer?label=Stars&style=for-the-badge)](https://github.com/SecretDev1111/Discord-Webhook-Spammer/stargazers)
+[![Forks](https://img.shields.io/github/forks/SecretDev1111/Discord-Webhook-Spammer?label=Forks&style=for-the-badge)](https://github.com/extatent/SecretDev1111/Discord-Webhook-Spammer/network/members)
+
 # CustomRPC (v.1.0.0)
 
 Free & Open Source program for custom RPC (Rich presence) for your discord profile!
