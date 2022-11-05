@@ -11,6 +11,9 @@ Free & Open Source program for custom RPC (Rich presence) for your discord profi
 <h3>2. Open install.bat to download required libraries</h3>
 <img style="width: 50%" src="https://i.imgur.com/iR0OAj2.png">
 
+<h3>3. You're done!</h3>
+<img src="https://media.tenor.com/xWPaojwX8g0AAAAM/skeleton-meme.gif">
+
 # Problems and Bugs
 Here are the problems and bugs that I plan to address in the future. If you fixed them, please do not hesitate to send me a pull request, and I would be very grateful. Please also report problems and bugs in [GitHub Issues](https://github.com/Ondra9071/CustomRPC/issues).
 
