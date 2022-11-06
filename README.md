@@ -19,6 +19,14 @@ Free & Open Source program for custom RPC (Rich presence) for your discord profi
 <h3>3. You're done!</h3>
 <img src="https://media.tenor.com/xWPaojwX8g0AAAAM/skeleton-meme.gif">
 
+# Requirements:
++ Python 3 (Install <a href="https://www.python.org/">here</a>) <br>
++ These modules: (Open install.bat to install them)
+```
+pypresence
+colorama
+requests
+```
 # Problems and Bugs
 Here are the problems and bugs that I plan to address in the future. If you fixed them, please do not hesitate to send me a pull request, and I would be very grateful. Please also report problems and bugs in [GitHub Issues](https://github.com/Ondra9071/CustomRPC/issues).
 
