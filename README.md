@@ -3,7 +3,7 @@
 [![Stars](https://img.shields.io/github/stars/Ondra9071/CustomRPC?label=Stars&style=for-the-badge)](https://github.com/Ondra9071/CustomRPC/stargazers)
 [![Forks](https://img.shields.io/github/forks/Ondra9071/CustomRPC?label=Forks&style=for-the-badge)](https://github.com/extatent/Ondra9071/CustomRPC/network/members)
 
-# CustomRPC (v.1.0.0)
+# <a href="https://www.ondra907.com/projects/customrpc">CustomRPC (v.1.0.0)</a>
 
 Free & Open Source program for custom RPC (Rich presence) for your discord profile!
 
