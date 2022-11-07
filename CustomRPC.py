@@ -114,6 +114,7 @@ os.system("cls")
 # ================================== #1 RPC ================================== #
 
 if (rpcType == "1"):
+  main()
   inID = input("Discord App ID: ")
   inState = input("State: ")
   inLargeImg = input("Large Image: ")
@@ -147,7 +148,6 @@ else:
   
 # ================================== THE END ================================== #
 
-os.system()
 done()
 end = input()
 
